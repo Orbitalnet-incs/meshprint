@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/mesh_print" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
